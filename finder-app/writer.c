@@ -13,7 +13,6 @@ int main( int argc, char *argv[])
 		return 1;
 	}
 	
-		
 	const char *writedirectory = argv[1] ; //"something.txt";
 	const char *writestring = argv[2];
 	
